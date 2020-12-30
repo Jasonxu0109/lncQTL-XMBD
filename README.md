@@ -4,5 +4,5 @@ Long noncoding RNAs (lncRNAs) are implicated in various human cancers. However, 
 
 Citation
 -----
-*Please cite the following articles if you use lncQTL in your research*:
+*Please cite the following article if you use lncQTL in your research*:
 * Li W, Xu C, Guo J, et al. Cis- and Trans-Acting Expression Quantitative Trait Loci of Long Non-Coding RNA in 2,549 Cancers With Potential Clinical and Therapeutic Implications. Front. Oncol. 2020; 10:
