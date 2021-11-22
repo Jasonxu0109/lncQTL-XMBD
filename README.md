@@ -1,4 +1,4 @@
-## [Welcome to lncQTL database](https://labinaili.shinyapps.io/lncQTL/)
+## [Welcome to lncQTL-XMBD database](https://labinaili.shinyapps.io/lncQTL/)
 
 ![图片](https://user-images.githubusercontent.com/11934986/122534169-da1b8900-d054-11eb-8d76-25eceba9139e.png)
 
